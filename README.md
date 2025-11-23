@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # web3js-next-tailwind-counter
 
 This is a Next.js app containing:
@@ -86,3 +87,10 @@ Build the web app
 ```shell
 pnpm build
 ```
+=======
+# anchor-vesting-program
+This project implements a token vesting system on Solana using the Anchor framework.
+It includes both the on-chain program and a full React/Next.js interface for creating vesting accounts and assigning employee vestings.
+
+This project is based on the Solana Foundation’s official Anchor tutorial
+>>>>>>> 95decbc2eed53d28f7e29b53b6ff1c8b1f152c5e
